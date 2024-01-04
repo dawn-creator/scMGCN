@@ -14,3 +14,7 @@ torch==1.10.1+cu111
 torchaudio==0.10.1+cu111  
 torchvision==0.11.2+cu111  
 wheel==0.37.1  
+### Instructions to run the experiment
+```
+python main.py
+```
